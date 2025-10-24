@@ -1,0 +1,18 @@
+{
+  "about": {
+    "name": "Kim Anthony Rabut",
+    "description": "I'm a passionate web developer with experience in HTML, CSS, JavaScript, and more. I love creating clean, user-friendly websites.",
+    "profilePic": "https://via.placeholder.com/150"
+  },
+  "skills": [
+    "HTML",
+    "JavaScript",
+    "CSS"
+
+    
+  ],
+  "contact": {
+    "email": "kimrabut@gmail.com"
+
+  }
+}
