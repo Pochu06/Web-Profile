@@ -84,7 +84,7 @@ function populatePage(data) {
         <div class="project-info">
           <h3>${project.title}</h3>
           <p>${project.description}</p>
-          <a href="${project.link}" target="_blank" class="project-link">View Project</a>
+          <a href="${project.link}" target="_blank" class="project-link">View Project.</a>
         </div>
       `;
       projectsList.appendChild(projectDiv);
