@@ -39,16 +39,14 @@
     {
       "title": "Blogsite",
       "description": "A modern blogging platform that enables users to share and express their ideas through an intuitive interface. Features include user authentication, rich text editing, and responsive design.",
-      "image": "images/blogsite.png",
-      "link": "https://github.com/pochu06/blogsite",
+      "image": "BlogSite Image PNG,IMG.png",
       "category": "web",
       "technologies": ["React", "Node.js", "MongoDB"]
     },
     {
       "title": "Tricycle Booking System",
       "description": "A prototype web application developed as a school project to streamline tricycle bookings. Includes real-time tracking, fare calculation, and booking management features.",
-      "image": "images/tricycle-booking.png",
-      "link": "https://github.com/pochu06/tricycle-booking",
+      "image": "Screenshot 2025-10-27 210947.png",
       "category": "app",
       "technologies": ["JavaScript", "PHP", "MySQL"]
     }
@@ -58,31 +56,15 @@
       "job": "3rd Year Student",
       "company": "Cagayan State University Aparri Campus",
       "duration": "2023 - 2027",
-      "description": "Pursuing a degree in Information Technology with a focus on web development. Active participant in coding competitions and tech events. Currently maintaining a strong academic performance while working on various web development projects.",
-      "highlights": [
-        "Dean's Lister",
-        "Web Development Club Member",
-        "Participant in local coding competitions"
-      ]
-    },
-    {
-      "job": "Freelance Web Developer",
-      "company": "Self-Employed",
-      "duration": "2024 - Present",
-      "description": "Working on various web development projects for small businesses and local clients. Specializing in creating responsive websites and web applications.",
-      "highlights": [
-        "Developed 5+ websites for local businesses",
-        "Expertise in modern web technologies",
-        "Client satisfaction focused approach"
-      ]
+      "description": "Pursuing a degree in Information Technology with a focus on web development. Active participant in coding competitions and tech events. Currently maintaining a strong academic performance while working on various web development projects."
     }
+ 
   ],
   "certifications": [
     {
-      "name": "Web Development Fundamentals",
-      "issuer": "freeCodeCamp",
-      "date": "2024",
-      "link": "https://www.freecodecamp.org/certification/pochu06/responsive-web-design"
+      "name": "Diploma in Senior High School ",
+      "issuer": "AENHS",
+      "date": "2023"
     }
   ]
 }
