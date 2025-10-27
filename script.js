@@ -22,10 +22,7 @@ async function loadData() {
   } catch (error) {
     console.error('Error loading data:', error);
     document.querySelectorAll('.loading').forEach(el => el.remove());
-    document.querySelectorAll('section').forEach(section => {
-      const errorMsg = document.createElement('div');
-      errorMsg.className = 'error';
-      errorMsg.textContent = 'Failed to load content. Please try again later.';
+    document.querySelectorAll('section').forEach(section => {;
       section.appendChild(errorMsg);
     });
   }
