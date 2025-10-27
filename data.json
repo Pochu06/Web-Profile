@@ -11,27 +11,39 @@
   },
   "skills": [
     {
-      "name": "HTML/CSS",
+      "name": "🌐HTML",
       "level": 90,
-      "icon": "fa-code",
+      "icon": "fa-html5",
       "description": "Proficient in creating responsive and modern web layouts"
     },
     {
-      "name": "JavaScript",
+      "name": "🎨Css",
+      "level": 90,
+      "icon": "fa-css3",
+      "description": "Proficient in creating responsive and modern web layouts"
+    },
+    {
+      "name": "⚡JavaScript",
       "level": 85,
       "icon": "fa-js",
       "description": "Strong understanding of ES6+ features and DOM manipulation"
     },
     {
-      "name": "React",
-      "level": 80,
+      "name": "⚛️React",
+      "level": 30,
       "icon": "fa-react",
       "description": "Experience in building interactive user interfaces"
     },
     {
-      "name": "Node.js",
-      "level": 75,
+      "name": "🟢Node.js",
+      "level": 50,
       "icon": "fa-node-js",
+      "description": "Basic backend development and API integration"
+    },
+    {
+      "name": "🔧Git",
+      "level": 30,
+      "icon": "fa-node-git",
       "description": "Basic backend development and API integration"
     }
   ],
