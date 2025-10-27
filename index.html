@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="container">
+                <div class="nav-left">
+                    <img id="personal-image" src="1740561504162.webp" alt="Kim Anthony Rabut">
+                    <h1 id="nav-name">Kim Anthony Rabut</h1>
+                </div>
+                <ul class="nav-links">
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+                <button class="hamburger" aria-label="Toggle menu">☰</button>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <div class="section-content">
+                <p id="bio"></p>
+            </div>
+        </section>
+
+        <section id="skills">
+            <h2>Skills</h2>
+            <div class="section-content">
+                <div id="skills-list"></div>
+            </div>
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <div class="section-content">
+                <div class="filters">
+                    <button class="filter-btn active" data-category="all">All</button>
+                    <button class="filter-btn" data-category="web">Web</button>
+                    <button class="filter-btn" data-category="app">App</button>
+                </div>
+                <div id="projects-list" class="projects-grid"></div>
+            </div>
+        </section>
+
+        <section id="experience">
+            <h2>Experience</h2>
+            <div class="section-content">
+                <div id="experience-list"></div>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <div class="section-content contact-grid">
+                <div class="contact-item">
+                    <p>Email: <a id="email" href="https://mail.google.com."></a></p>
+                </div>
+                <div class="contact-item">
+                    <p>GitHub: <a id="github" href="https://github.com/Pochu06" target="_blank">Profile</a></p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Kim Anthony Rabut. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
